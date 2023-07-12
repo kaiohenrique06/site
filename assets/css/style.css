@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+    height: 100vh;
+}
+section#login{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.box-login{
+    background-color:#9dbcbc;
+    width: 400px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+button.btn-login{
+    width: 100%;
+}
+
+
